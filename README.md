@@ -23,10 +23,10 @@ You can install Elm through NPM by running `npm install -g elm` or you can use t
   13. Open atom and make a *.elm* and save it with `ctr+c`, you should see elm-format and the autocompletion.
   
 Here are the other text editor options and how to install the different packages for them:
-  *[Brackets](https://github.com/lepinay/elm-brackets)
-  *[Emacs](https://github.com/jcollard/elm-mode)
-  *[IntelliJ](https://github.com/durkiewicz/elm-plugin)
-  *[Lighttable](https://github.com/rundis/elm-light)
-  *[Sublime Text](https://packagecontrol.io/packages/Elm%20Language%20Support)
-  *[Vim](https://github.com/lambdatoast/elm.vim)
-  *[VS Code](https://github.com/sbrink/vscode-elm)
+    * [Brackets](https://github.com/lepinay/elm-brackets)
+    * [Emacs](https://github.com/jcollard/elm-mode)
+    * [IntelliJ](https://github.com/durkiewicz/elm-plugin)
+    * [Lighttable](https://github.com/rundis/elm-light)
+    * [Sublime Text](https://packagecontrol.io/packages/Elm%20Language%20Support)
+    * [Vim](https://github.com/lambdatoast/elm.vim)
+    * [VS Code](https://github.com/sbrink/vscode-elm)
